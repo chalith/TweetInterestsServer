@@ -45,12 +45,12 @@ Thumbs.db
 
 /data
 /stanford-corenlp-full-2018-10-05
-# /tweets/densitymaps/*.json
-# /tweets/filtered/*.json
-# /tweets/new/*.txt
-# /tweets/old/*.txt
-# /tweets/polarities/clustered/*.json
-# /tweets/polarities/categorized/*.json
+/tweets/densitymaps/*.json
+/tweets/filtered/*.json
+/tweets/new/*.txt
+/tweets/old/*.txt
+/tweets/polarities/clustered/*.json
+/tweets/polarities/categorized/*.json
 
 
 
